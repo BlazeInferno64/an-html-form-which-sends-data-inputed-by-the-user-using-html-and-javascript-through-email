@@ -2,14 +2,35 @@
 It's just a demo of a form which sends data inputed by the user using html and javascript through email. Plss note that this is for demo purpose and shouldn't be misuse for abusing/spamming anybody's email for that I'm not responsible for anything 
 
 # Live View Of The Webpage Link-
-View the webpage live here at github pages
+View the webpages live here at github pages
 
-<a href="https://blaizinginfernodragon123.github.io/coming-soon-page-in-html-and-css-and-javascript-/">
+First page-
+
+<a href="https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/">
 
 ```
-https://blaizinginfernodragon123.github.io/coming-soon-page-in-html-and-css-and-javascript-/
+https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/
 ```
 </a>
+
+Second page-
+
+<a href="https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index2.html">
+
+```
+https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index2.html
+```
+</a>
+
+Third page-
+
+<a href="https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index3.html">
+
+```
+https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index3.html
+```
+</a>
+
 
 # My patreon page check the post here-
 `
