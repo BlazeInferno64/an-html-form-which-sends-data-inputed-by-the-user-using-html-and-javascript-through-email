@@ -1,5 +1,47 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Form Demo</title>
+
+<style>
+input[type=text] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+input[type=reset] {
+  background-color: #db5945;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=reset]:hover {
+  background-color: #FFA500;
+}
+</style>
+
+</head>
 <body onload="setCookie">
 
 <h2>Send e-mail to someone@example.com:</h2>
