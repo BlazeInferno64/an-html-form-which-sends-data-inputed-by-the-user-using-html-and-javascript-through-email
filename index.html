@@ -4,6 +4,16 @@
 <title>Form Demo</title>
 
 <style>
+input[type=email] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
 input[type=text] {
   width: 100%;
   padding: 12px;
@@ -43,7 +53,7 @@ input[type=reset]:hover {
 
 </head>
 <body onload="setCookie">
-
+<center>
 <h2>Send e-mail to someone@example.com:</h2>
 
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
@@ -56,6 +66,8 @@ Comment:<br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 </form>
+
+</center>
 
 <script src="js/script.js"></script>
 
