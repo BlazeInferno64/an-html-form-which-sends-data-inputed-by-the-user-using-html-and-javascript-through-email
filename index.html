@@ -92,10 +92,22 @@ E-mail:<br>
 <input type="email" name="mail" required><br>
 Comment:<br>
 <input type="text" name="comment" size="50" required><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
+<input type="submit" value="Send" onclick="showAlert()">
+<input type="reset" value="Reset" onclick="showMsg">
 </form>
 </font>
+
+<script>
+  function showAlert() {
+    alert ("Thanks for spending your time for filling up this form.Now the final step is that you will be redirected to gmail or any other email app and would have to just click on send there!");
+  }
+  </script>
+
+<script>
+  function showMsg() {
+    alert ("The form was successfully reseted!");
+  }
+  </script>
 
 <center>
 <footer>
