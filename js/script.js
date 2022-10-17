@@ -1,7 +1,7 @@
 function setCookie(Default, value, options = {}) {
 
   options = {
-    path: 'https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email-/',
+    path: 'https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/',
     // add other defaults here if necessary
     ...options
   };
