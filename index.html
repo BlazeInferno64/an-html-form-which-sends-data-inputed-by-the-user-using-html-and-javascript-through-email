@@ -87,11 +87,11 @@ color: #000000;
 
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
 Name:<br>
-<input type="text" name="name" required><br>
+<input type="text" name="name" placeholder="Write your name here... "  title="This is where you type your name"   required><br>
 E-mail:<br>
-<input type="email" name="mail" required><br>
+<input type="email" name="mail" placeholder="Write down your Email address here..."  title="This is where you type your E-mail address "   required><br>
 Comment:<br>
-<input type="text" name="comment" size="50" required><br><br>
+<input type="text" name="comment" size="50" placeholder="Write your comment here..."  title="This is where you type your comment which is in your mind"  required><br><br>
 <input type="submit" value="Send" onclick="showAlert()">
 <input type="reset" value="Reset" onclick="showMsg()">
 </form>
@@ -99,7 +99,7 @@ Comment:<br>
 
 <script>
   function showAlert() {
-    alert ("Thanks for spending your time for filling up this form.Now the final step is that you will be redirected to gmail or any other email app and would have to just click on send there!");
+    alert ("Thanks for spending your time for filling up this form. Now the final step is that you will be redirected to gmail or any other email app and from there you would have to just click on send mail there that is the pointer icon on top right corner from there as the mail will be composed only!");
   }
   </script>
 
@@ -111,13 +111,15 @@ Comment:<br>
 
 <center>
 <footer>
-<a href="https://www.github.com/blaizinginfernodragon123" style="color:green">
+<font face="Verdana,  Arial" size="3">
+<a title="blaizinginfernodragon123 profile photo of github" href="https://www.github.com/blaizinginfernodragon123" style="color:green">
 <img class="resize" src="https://avatars.githubusercontent.com/u/96913755?v=4" alt="BlaizingInfernoDragon123 LOGO" >
 <p> <i class="fa fa-user"></i>BlaizingInfernoDragon123</p> 
 </a>
-<p><a href="https://github.com/BlaizingInfernoDragon123/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/archive/refs/heads/main.zip" style="color:black"> <i class="fa fa-download"></i>Download Source Code Click Here</a></p>
+<p><a title="Download source code? Click on this link" href="https://github.com/BlaizingInfernoDragon123/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/archive/refs/heads/main.zip" style="color:black"> <i class="fa fa-download"></i>Download Source Code Click Here</a></p>
+</font>
 <font face="Verdana,  Arial" size="3" color="black">
-Copyright &copy;  2022 <a href="https://www.github.com/blaizinginfernodragon123" style="color:black"> BlaizingInfernoDragon<i class="fa fa-github"></i></a>
+Copyright &copy;  2022 <a title="know more about blaizinginfernodragon123" href="https://www.github.com/blaizinginfernodragon123" style="color:black"> BlaizingInfernoDragon<i class="fa fa-github"></i></a>
 </font>
 </footer>
 </center>
