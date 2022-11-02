@@ -88,11 +88,11 @@ color: #000000;
 
 <form action="mailto:someone@example.com" method="post" enctype="text/plain">
 Name:<br>
-<input type="text" name="name" placeholder="Write down your name here... "  title="This is where you type your name"   required><br>
+<input type="text" name="name" spellcheck="true" placeholder="Write down your name here... "  title="This is where you type your name"   required><br>
 E-mail:<br>
-<input type="email" name="mail" placeholder="Write down your Email address here..."  title="This is where you type your E-mail address "   required><br>
+<input type="email" name="mail" spellcheck="true" placeholder="Write down your Email address here..."  title="This is where you type your E-mail address "   required><br>
 Comment:<br>
-<input type="text" name="comment" size="50" placeholder="Write down your comment here..."  title="This is where you type your comment which is in your mind"  required><br><br>
+<input type="text" name="comment" size="50" spellcheck="true" placeholder="Write down your comment here..."  title="This is where you type your comment which is in your mind"  required><br><br>
 <input type="submit" value="Send" onclick="showAlert()">
 <input type="reset" value="Reset" onclick="showMsg()">
 </form>
