@@ -81,6 +81,8 @@ color: #000000;
 }
 </style>
 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 </head>
 <body onload="setCookie">
 <font face="Verdana, Arial" color="black">
@@ -128,6 +130,16 @@ Copyright &copy;  2022 <a title="know more about blaizinginfernodragon123" href=
 </font>
 </footer>
 </center>
+
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+    async defer>
+</script>
+
+<script type="text/javascript">
+  var onloadCallback = function() {
+    alert("grecaptcha is ready!");
+  };
+</script>
 
 <script type="text/javascript">
 console.log(document.cookie)
