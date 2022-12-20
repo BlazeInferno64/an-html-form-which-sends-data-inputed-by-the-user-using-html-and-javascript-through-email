@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <head>
-<title>Document</title>
+<title>JavaScript Document</title>
+
+<link rel="icon" href="https://avatars.githubusercontent.com/u/96913755?v=4" type="image/x-icon"/>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
 <style>
 body{
@@ -12,20 +16,27 @@ padding: 20px 10px;
 text-transform: none;
 outline: none; 
 border: 1px solid #ccc; 
+border-radius: 4px;
 }
 button{
 padding: 10px 30px; 
-background-color: springgreen; 
+background-color: cyan; 
 outline: none; 
 border-radius: 4px; 
 border: 1px solid transparent;
+color: white; 
 }
 button:hover{
-background-color: green; 
+background-color: seagreen; 
 }
 input:hover{
 background-color: #dedede;
 border: 1px solid transparent;
+}
+@media (max-width: 470px){
+input,button{
+width: 100%;
+}
 }
 </style>
 
@@ -55,7 +66,7 @@ border: 1px solid transparent;
 <br>
 <br>
 
-<button type="submit" id="btn" onclick="checkField()">Post It</button>
+<button type="submit" id="btn" onclick="checkField()"><i class="fa fa-send"></i>  Post It</button>
 
 <br>
 <br>
