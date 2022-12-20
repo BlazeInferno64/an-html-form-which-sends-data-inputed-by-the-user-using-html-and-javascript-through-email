@@ -30,13 +30,14 @@ border: 1px solid transparent;
 </style>
 
 </head>
-<body>
+<body onload="hide()">
 
 <font face="Verdana, Arial">
 
 <h2>You have Entered: </h2>
 
 <p id="demo"></p>
+<p id="hide">Processing....</p>
 
 <br>
 <br>
@@ -63,6 +64,9 @@ border: 1px solid transparent;
 <script>
 //document.write("Hello World");
 
+function hide(){
+document.getElementById("hide").style.display = "none";
+}
 
 function checkField(){
 let x = document.getElementById("field").value; 
@@ -73,10 +77,15 @@ let z = document.getElementById("demo").value;
 
 let w = document.getElementById("btn");
 
+let v = document.getElementById("hide").value;
+
+v.style.display = "block";
+
 setTimeout(time, 5000);
 
 function time(){
 document.getElementById("field").value = y; 
+v.style.display = "none";
 document.getElementById("demo").innerHTML = y; 
 }
 
