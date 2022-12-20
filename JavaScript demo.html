@@ -43,7 +43,6 @@ border: 1px solid transparent;
 <br>
 <br>
 
-<form action="data.php" method="post">
 
 <input type="text" id="field"  placeholder="Entered Text From field below will be displayed here" readonly />
 
@@ -60,10 +59,11 @@ border: 1px solid transparent;
 <br>
 <br>
 
-</form>
 
 <script>
 //document.write("Hello World");
+
+setTimeout(checkField, 5000)
 
 function checkField(){
 let x = document.getElementById("field").value; 
@@ -83,8 +83,8 @@ alert("You have entered:"  +y);
 </script>
 
 <?php
-$word = "Hello"
-echo $word
+$word = "Hello";
+echo $word;
 />
 
 </font>
