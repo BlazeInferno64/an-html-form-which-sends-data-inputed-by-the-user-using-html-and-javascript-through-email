@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <head>
 <title>Document</title>
 
@@ -34,14 +34,23 @@ border: 1px solid transparent;
 
 <font face="Verdana, Arial">
 
+<h2>You have Entered: </h2>
+
 <p id="demo"></p>
+
+<br>
+<br>
+<br>
+<br>
+
+<form action="data.php" method="post">
 
 <input type="text" id="field"  placeholder="Entered Text From field below will be displayed here" readonly />
 
 <br>
 <br>
 
-<input type="text" id="field2" placeholder="Enter Your Thoughts here" required />
+<input type="text" id="field2" name="username" placeholder="Enter Your Thoughts here" required />
 
 <br>
 <br>
@@ -50,6 +59,8 @@ border: 1px solid transparent;
 
 <br>
 <br>
+
+</form>
 
 <script>
 //document.write("Hello World");
