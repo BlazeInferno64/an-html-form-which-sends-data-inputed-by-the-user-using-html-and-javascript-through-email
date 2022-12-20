@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Document</title>
+
+<style>
+body{
+text-align: center; 
+display: ;
+}
+input{
+padding: 20px 10px; 
+text-transform: none;
+outline: none; 
+border: 1px solid #ccc; 
+}
+button{
+padding: 10px 30px; 
+background-color: springgreen; 
+outline: none; 
+border-radius: 4px; 
+border: 1px solid transparent;
+}
+button:hover{
+background-color: green; 
+}
+input:hover{
+background-color: #dedede;
+border: 1px solid transparent;
+}
+</style>
+
+</head>
+<body>
+
+<p id="demo"></p>
+
+<input type="text" id="field"  placeholder="Entered Text From field below will be displayed here" readonly />
+
+<br>
+<br>
+
+<input type="text" id="field2" placeholder="Enter Your Thoughts here" required />
+
+<br>
+<br>
+
+<button type="submit" id="btn" onclick="checkField()">Post It</button>
+
+<br>
+<br>
+
+<script>
+//document.write("Hello World");
+
+function checkField(){
+let x = document.getElementById("field").value; 
+
+let y = document.getElementById("field2").value; 
+
+let z = document.getElementById("demo").value; 
+
+let w = document.getElementById("btn");
+
+document.getElementById("field").value = y; 
+document.getElementById("demo").innerHTML = y; 
+
+alert("You have entered:"  +y); 
+}
+
+</script>
+
+<?php
+$word = "Hello"
+echo $word
+/>
+</body>
+</html>
