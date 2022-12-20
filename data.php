@@ -1,5 +1,5 @@
 
-$servername = "localhost:3000";
+$servername = "localhost";
 $username = "username";
 $password = "password";
 
