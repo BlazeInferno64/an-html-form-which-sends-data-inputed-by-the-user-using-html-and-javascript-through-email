@@ -73,14 +73,17 @@ let z = document.getElementById("demo").value;
 
 let w = document.getElementById("btn");
 
+setTimeout(time, 5000);
+
+function time(){
 document.getElementById("field").value = y; 
 document.getElementById("demo").innerHTML = y; 
+}
 
 alert("You have entered:"  +y); 
 
-setTimeout(z, 5000);
-
 }
+
 
 </script>
 
