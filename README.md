@@ -33,10 +33,10 @@ https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed
 
 Fourth page-
 
-<a href="https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/JavaScript%20demo.html">
+<a href="https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index4.html">
 
 ```
-https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/JavaScript%20demo.html
+https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index4.html
 ```
 </a>
 
