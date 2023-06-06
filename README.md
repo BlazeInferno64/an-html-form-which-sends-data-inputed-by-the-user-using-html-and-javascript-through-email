@@ -6,37 +6,37 @@ View the webpages live here at github pages
 
 First page-
 
-<a href="https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/" target="_blank">
+<a href="https://blazeinferno64.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/" target="_blank">
 
 ```
-https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/
+https://blazeinferno64.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/
 ```
 </a>
 
 Second page-
 
-<a href="https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index2.html" target="_blank">
+<a href="https://blazeinferno64.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index2.html" target="_blank">
 
 ```
-https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index2.html
+https://blazeinferno64.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index2.html
 ```
 </a>
 
 Third page-
 
-<a href="https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index3.html" target="_blank">
+<a href="https://blazeinferno64.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index3.html" target="_blank">
 
 ```
-https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index3.html
+https://blazeinferno64.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index3.html
 ```
 </a>
 
 Fourth page-
 
-<a href="https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index4.html">
+<a href="https://blazeinferno64.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index4.html">
 
 ```
-https://blaizinginfernodragon123.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index4.html
+https://blazeinferno64.github.io/an-html-form-which-sends-data-inputed-by-the-user-using-html-and-javascript-through-email/index4.html
 ```
 </a>
 
